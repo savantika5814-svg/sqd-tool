@@ -6,7 +6,7 @@ A proof-of-concept interactive web tool that predicts source quality decay in pr
 
 Built to explore a specific gap in programmatic recruitment platforms: by the time Cost-Per-Application (CPA) rises enough to trigger spend reallocation, the apply fraud and candidate recirculation causing it typically started 2–3 weeks earlier. Most platforms react to this signal. This tool tries to anticipate it.
 
-Live tool: yourusername.github.io/sqd-tool
+Live tool: https://savantika5814-svg.github.io/sqd-tool/
 
 The Problem It Targets
 
